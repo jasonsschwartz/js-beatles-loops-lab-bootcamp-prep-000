@@ -17,7 +17,9 @@ function johnLennonFacts(array){
   return empty
 }
 
-//function iLoveTheBeatles(num){
- // var empty = []
-  
-//}
+function iLoveTheBeatles(num){
+  var empty = []
+  do{
+    empty.push("")
+  }
+}
